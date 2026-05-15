@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+triples_output.csv
+*.html
+.venv/
+venv/
+.env
