@@ -5,3 +5,7 @@ triples_output.csv
 .venv/
 venv/
 .env
+*.pptx
+*.pdf
+*.docx
+lib/
